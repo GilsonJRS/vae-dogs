@@ -1,0 +1,6 @@
+pandas==1.4.3
+pytorch_lightning==1.7.7
+skimage==0.0
+torch==1.12.1+cpu
+torchvision==0.13.1+cpu
+wandb==0.13.4
